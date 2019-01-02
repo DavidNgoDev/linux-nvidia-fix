@@ -10,8 +10,8 @@ I take no responsibility in anything that may go wrong.**
 
 # How to install
 
-1. press and hold ctrl + alt + f2 (This will get you into another terminal)
-2. logoin with your normal login account with root access
+1. press and hold ctrl + alt + f2 (This will get you into another shell)
+2. login with your normal login account with root access
 3. cd /tmp
 4. git clone https://github.com/DavidNgoDev/linux-nvidia-fix.git
 5. cd linux-nvidia-fix
