@@ -34,4 +34,4 @@ echo "If the last command didn't run, then the installation didn't go as plan."
 echo "Nevertheless, reboot the computer anyway."
 read -n 1 -s -r -p "Press any key to reboot"
 ```
-Enjoy :simple_smile:
+Enjoy :+1:
