@@ -13,7 +13,7 @@ This script was tested on Kali Linux Kali [GNU/Linux Rolling 2019.1]
 1. press and hold ctrl + alt + f2 (This will get you into another terminal)
 2. logoin with your normal login account with root access
 3. cd /tmp
-4. git clone
+4. git clone https://github.com/DavidNgoDev/linux-nvidia-fix.git
 5. cd linux-nvidia-fix
 6. chmod +x run.sh
 7. ./run.sh
