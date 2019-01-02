@@ -4,9 +4,9 @@ Fixes the black screen bug, that may occure after installing the nvidia drivers 
 If you experence a black screen with a blinking cursor, then this script may be able to fix the issue and restore you dekstop enviroment.
 
 **By using this script. Anything that may go wrong, like a broken distro or lost of data will be your fault. 
-I take no responsibility in anything that may go wrong.
+I take no responsibility in anything that may go wrong.**
 
-This script was tested on Kali Linux Kali [GNU/Linux Rolling 2019.1]
+> This script was tested on Kali Linux Kali [GNU/Linux Rolling 2019.1]
 
 # How to install
 
@@ -34,3 +34,4 @@ echo "If the last command didn't run, then the installation didn't go as plan."
 echo "Nevertheless, reboot the computer anyway."
 read -n 1 -s -r -p "Press any key to reboot"
 ```
+Enjoy :simple_smile:
